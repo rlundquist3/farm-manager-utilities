@@ -4,8 +4,8 @@ Utitlity scripts etc. for the [insect farm manager](https://github.com/rlundquis
 
 ---------------
 
-## /arduino
+## ./arduino
 climate control and logging arduino scripts
 
-## /python
+## ./python
 api interaction
